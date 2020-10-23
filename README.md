@@ -1,0 +1,1 @@
+This is a project for The Odin Project to make a console version of the game Rock Paper Scissors.
